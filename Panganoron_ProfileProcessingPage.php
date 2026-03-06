@@ -20,7 +20,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     
     move_uploaded_file($_FILES["profile_pic"]["tmp_name"], $target_file);
 } else {
-    header("Location: index.php");
+    header("Location: Panganoron_ProfileFormPage.php");
     exit();
 }
 ?>
