@@ -58,7 +58,7 @@
 
 <div class="container">
     <h2>Create Your Profile</h2>
-    <form action="profile.php" method="POST" enctype="multipart/form-data">
+    <form action="Panganoron_ProfileProcessingPage.php" method="POST" enctype="multipart/form-data">
         <div class="form-group">
             <label>Full Name</label>
             <input type="text" name="full_name" required>
@@ -93,6 +93,8 @@
             <input type="checkbox" name="hobbies[]" value="Music"> Music
             <input type="checkbox" name="hobbies[]" value="Traveling"> Traveling
             <input type="checkbox" name="hobbies[]" value="Coding"> Coding
+            <input type="checkbox" name="hobbies[]" value="Audiophile"> Audiophile
+
         </div>
 
         <div class="form-group">
