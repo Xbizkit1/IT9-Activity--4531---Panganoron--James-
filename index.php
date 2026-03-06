@@ -8,7 +8,7 @@
     <style>
         body {
 
-            /*I guess we're doing my favorite style. The Windows 7 Aero  */
+            /*I guess we're doing my favorite style. The Windows 7 Aero (PS: I used the Lec Activity as References on my design) */
 
             background: linear-gradient(135deg, #1e5799 0%, #2989d8 50%, #207cca 51%, #7db9e8 100%);
             background-attachment: fixed;
