@@ -151,7 +151,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
     <?php endif; ?>
 
-    <a href="index.php" class="btn-aero-back">← CREATE ANOTHER PROFILE</a>  // mao ni ang back button na nalink sa ".btn-aero-back"
+    <a href="index.php" class="btn-aero-back">← CREATE ANOTHER PROFILE</a>
 </div>
 
 </body>
